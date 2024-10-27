@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/54e4bb79-0301-45a1-a806-df9ce3563c81)
+
 # Hi there! 👋
 
 Welcome to my GitHub profile!
