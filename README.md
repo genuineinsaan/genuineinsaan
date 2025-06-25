@@ -15,17 +15,15 @@ I'm a **B.Tech student** with a passion for technology, creativity, and building
 **Develop Games**: I design and build innovative, story-driven games that combine technical skills with creative vision.
 **Create & Share Content**: I document my learning journey, projects, and insights through engaging videos and posts — building a community around tech and game development.
 
-
 ## 🌟 Let’s Connect
+Let’s build, create, and grow together. Explore my work or just drop by to say hello:
 
-Let’s build, create, and grow together. You can find my work and connect with me on:
-
-* 🎮 **Itch.io:** [itch.io/genuineinsaan09]((https://ginsaan.itch.io/)) — *Play my games and prototypes*
-* 🧑‍💻 **GitHub:** [github.com/genuineinsaan09](https://github.com/genuineinsaan09) — *Explore my code and projects*
-* 📺 **YouTube:** [youtube.com/@genuineinsaan\_09](https://www.youtube.com/@genuineinsaan_09) — *Watch my devlogs & creative content*
-* 💼 **LinkedIn:** [linkedin.com/in/genuineinsaan](https://www.linkedin.com/in/genuineinsaan) — *Let’s network professionally*
-* 🐦 **Twitter/X:** [twitter.com/genuineinsaan\_09](https://twitter.com/genuineinsaan_09) — *Follow tech updates & game ideas*
-* 📸 **Instagram:** [instagram.com/genuineinsaan\_09](https://www.instagram.com/genuineinsaan_09) — *Visuals, behind-the-scenes & personal side*
-* 💬 **Discord:** *genuineinsaan09#XXXX* — *Chat, collab, or game dev talk (replace XXXX with your tag)*
-* 🌐 **Linktree:** [linktr.ee/genuineinsaan\_09](https://linktr.ee/genuineinsaan_09) — *All links in one place*
+* 🎮 **Itch.io:** [ginsaan.itch.io](https://ginsaan.itch.io) — *Check out my games and projects*
+* 🧑‍💻 **GitHub:** [github.com/genuineinsaan](https://github.com/genuineinsaan) — *Browse my code and contributions*
+* 📺 **YouTube:** [YouTube – genuineinsaan\_09](https://www.youtube.com/channel/UCsQPFERQfyKhBkcvTB27YPg) — *Watch devlogs, breakdowns, and more*
+* 💼 **LinkedIn:** [Shashank Srivastava](https://www.linkedin.com/in/shashank-srivastava-58269b281/) — *Connect professionally*
+* 🐦 **Twitter/X:** [@genuineinsaan\_9](https://x.com/genuineinsaan_9) — *Quick updates, ideas & tech insights*
+* 📸 **Instagram:** [@genuineinsaan\_09](https://www.instagram.com/genuineinsaan_09?igsh=MWRueW1sNGttdHk0ZA==) — *Behind-the-scenes & creative glimpses*
+* 💬 **Discord:** `genuinedev` — *Let's chat, collab, or game dev talk*
+* 🌐 **Linktree:** [linktr.ee/genuineinsaan\_09](https://linktr.ee/genuineinsaan_09) — *Find everything in one place*
 
