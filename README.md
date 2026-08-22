@@ -1,142 +1,399 @@
-<br clear="both">
+# 👋 Hey, I'm Shashank Srivastava
 
-<h1 data-importer="text" align="center">Hello Developers !!</h1>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI%2FML+Student+%7C+Machine+Learning+Enthusiast;Python+Developer+%7C+AI+Explorer;Building+Projects+and+Learning+Every+Day+%F0%9F%9A%80" />
 
-<h2 data-importer="text" align="left">My name is Shashank and I'm a Computer Science (AI & ML) student from this Genz World 😁</h2>
+<br>
 
-###
+<img src="https://komarev.com/ghpvc/?username=genuineinsaan&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
-<h2 data-importer="text" align="left">About me .......</h2>
-
-###
-
-<h3 data-importer="text" align="left">✨ Creating bugs since 2023 😏<br>📚 I'm currently learning Artificial Intelligence 😊<br>🎯 Goals : A high LPA Job 😉<br>🎲 Fun fact that I am an Influencer too 😎<br>✨ Always learning. Always building. ❤️<br>👻 Wanna contact - Email me at shashanksrivastava323@gmail.com 🫡</h3>
-
-###
-
-<h2 data-importer="text" align="left">Skills that I am used with .......</h2>
-
-###
-
-<br clear="both">
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genuineinsaan/genuineinsaan/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genuineinsaan/genuineinsaan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/genuineinsaan/genuineinsaan/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+# 👨‍💻 About Me
 
-###
+<div align="center">
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=genuineinsaan.genuineinsaan&"  />
+### 🚀 Learning. Building. Improving.
+
+I'm a **Computer Science student specializing in Artificial Intelligence & Machine Learning** who enjoys building practical projects and exploring how AI can be used to solve real-world problems.
+
 </div>
 
-###
+<table align="center">
+<tr>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/genuineinsaan/genuineinsaan/snake-output/snake.svg" alt="Snake animation" />
+<td width="50%" valign="top">
 
-###
+### 💡 What I Do
 
-<br clear="both">
+* 🤖 Build **Machine Learning projects**
+* 🐍 Develop applications using **Python**
+* 🧠 Explore **Artificial Intelligence & ML**
+* 📊 Work with **Data Analysis & Visualization**
+* 🌐 Build ML applications using **Flask**
+* 🚀 Turn ideas into working projects
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/genuineinsaan/genuineinsaan/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=genuineinsaan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/genuineinsaan/genuineinsaan/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/genuineinsaan/genuineinsaan/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 What I'm Working Towards
+
+* ⚡ Becoming a stronger **Machine Learning Engineer**
+* 🤖 Expanding my knowledge of **AI/ML**
+* 📚 Building more practical ML projects
+* 🧩 Improving problem-solving & programming skills
+* 💼 Preparing for **AI/ML internship & career opportunities**
+* 🔄 Learning and building consistently
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+### 💻 Learn • Build • Experiment • Improve • Repeat
+
 </div>
 
-###
+---
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+# 🏆 Highlights
+
+<div align="center">
+
+|             🚀 Area            |                     📌 Focus                     |
+| :----------------------------: | :----------------------------------------------: |
+|     🤖 **Machine Learning**    |          Building practical ML projects          |
+| 🧠 **Artificial Intelligence** |      Exploring AI concepts and applications      |
+|    🐍 **Python Development**   |         Developing ML-based applications         |
+|    🌐 **Flask Applications**   |        Creating local ML web applications        |
+|     🚀 **Project Building**    |       Consistently working on new projects       |
+|    💼 **Internship Journey**   | Gaining practical experience through internships |
+
 </div>
 
-###
+---
+
+# 🚀 Featured Projects
+
+## 🏠 House Price Prediction
+
+> **Machine Learning × Regression × Flask**
+
+```text
+Python • Pandas • Scikit-learn • Random Forest • Flask
+```
+
+A machine learning application that predicts house prices based on different property-related features.
+
+### ✨ Features
+
+* 🏠 House price prediction
+* 📊 Data preprocessing
+* 🌲 Random Forest Regression
+* 📈 Model evaluation
+* 🌐 Flask-based local web application
+
+🔗 **Repository:** Add your GitHub repository link
+
+---
+
+## 💰 Salary Prediction
+
+> **Machine Learning × Regression × Flask**
+
+```text
+Python • Pandas • Scikit-learn • Random Forest • Flask
+```
+
+A machine learning project that predicts salary based on years of professional experience.
+
+### ✨ Features
+
+* 💼 Experience-based salary prediction
+* 🧹 Data preprocessing
+* 🤖 Machine Learning model
+* 📊 Model evaluation
+* 🌐 Flask web interface
+
+🔗 **Repository:** Add your GitHub repository link
+
+---
+
+## 🚢 Titanic Survival Prediction
+
+> **Machine Learning × Classification × Flask**
+
+```text
+Python • Pandas • Scikit-learn • Classification • Flask
+```
+
+A machine learning application that predicts whether a passenger would survive the Titanic disaster based on passenger information.
+
+### ✨ Features
+
+* 🚢 Survival prediction
+* 📊 Data preprocessing
+* 🤖 Classification model
+* 📈 Model evaluation
+* 🌐 Flask-based interface
+
+🔗 **Repository:** Add your GitHub repository link
+
+---
+
+## 💳 Credit Scoring Model
+
+> **Machine Learning × Classification × Risk Prediction**
+
+```text
+Python • Pandas • Scikit-learn • Logistic Regression • Random Forest
+```
+
+A machine learning project designed to predict credit risk using customer financial information.
+
+### ✨ Features
+
+* 💳 Credit risk prediction
+* 🧹 Data preprocessing
+* 📊 Feature encoding
+* 🤖 Logistic Regression
+* 🌲 Random Forest Classification
+* 📈 Model evaluation
+
+🔗 **Repository:** Add your GitHub repository link
+
+---
+
+# 💼 Experience
+
+### `Machine Learning Intern`
+
+**CodeAlpha**
+
+```text
+Machine Learning • Python • Scikit-learn • Data Analysis
+```
+
+Worked on machine learning projects involving data preprocessing, model development, evaluation, and practical implementation.
+
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<br>
+
+`Scikit-learn` • `Pandas` • `NumPy`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=flask,html,css,js" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+
+</td>
+
+<td align="center">
+
+### 📊 Data & Visualization
+
+`Pandas`
+
+`NumPy`
+
+`Matplotlib`
+
+`Seaborn`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+```text
+🤖 Machine Learning
+🧠 Artificial Intelligence
+📊 Data Analysis & Visualization
+🐍 Advanced Python
+🧩 Machine Learning Algorithms
+🌐 ML Applications with Flask
+🚀 Building Real-World AI Projects
+```
+
+</div>
+
+---
+
+# 🚀 My Developer Journey
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="16%">
+
+### 🎓
+
+**LEARN**
+
+Computer Science
+
+& AI/ML
+
+</td>
+
+<td align="center" width="16%">
+
+### 🐍
+
+**CODE**
+
+Python
+
+& Programming
+
+</td>
+
+<td align="center" width="16%">
+
+### 🤖
+
+**BUILD**
+
+Machine Learning
+
+Projects
+
+</td>
+
+<td align="center" width="16%">
+
+### 🌐
+
+**CREATE**
+
+ML Applications
+
+with Flask
+
+</td>
+
+<td align="center" width="16%">
+
+### 📚
+
+**IMPROVE**
+
+Skills
+
+Every Day
+
+</td>
+
+<td align="center" width="16%">
+
+### 🚀
+
+**GROW**
+
+Towards an
+
+AI/ML Career
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 💙 *Learning today. Building for tomorrow.*
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/genuineinsaan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:shashanksrivastava323@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌟 *Always learning. Always building.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+
+</div>
