@@ -99,7 +99,7 @@ A machine learning application that predicts house prices based on different pro
 * 📈 Model evaluation
 * 🌐 Flask-based local web application
 
-🔗 **Repository:** Add your GitHub repository link
+
 
 ---
 
@@ -121,7 +121,7 @@ A machine learning project that predicts salary based on years of professional e
 * 📊 Model evaluation
 * 🌐 Flask web interface
 
-🔗 **Repository:** Add your GitHub repository link
+
 
 ---
 
@@ -143,7 +143,7 @@ A machine learning application that predicts whether a passenger would survive t
 * 📈 Model evaluation
 * 🌐 Flask-based interface
 
-🔗 **Repository:** Add your GitHub repository link
+
 
 ---
 
@@ -166,7 +166,7 @@ A machine learning project designed to predict credit risk using customer financ
 * 🌲 Random Forest Classification
 * 📈 Model evaluation
 
-🔗 **Repository:** Add your GitHub repository link
+
 
 ---
 
